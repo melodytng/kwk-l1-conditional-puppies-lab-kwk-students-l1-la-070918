@@ -42,4 +42,4 @@ def new_animal(puppies, cats)
     "Slow down!"
   end
 end 
-new_animal(1, 0)
+puts new_animal(1, 0)
