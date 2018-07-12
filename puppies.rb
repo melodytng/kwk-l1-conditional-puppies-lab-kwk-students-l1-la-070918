@@ -42,4 +42,4 @@ def both_animals(puppies, cats)
     "Get back to your animal goals!"
   end
 end 
-puts new_animal(1, 1)
+puts both_animals(1, 1)
